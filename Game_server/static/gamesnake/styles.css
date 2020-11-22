@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    margin: 0;
+    background: rgb(77, 62, 62);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.play_ground{
+    border: 2px solid rgb(0, 255, 98);
+    align-items:"center";
+}
+
+.snake{
+    align-items:"center";
+}
+
+.icon-logo:before {
+    content: "\e60a";
+}
+.restart{
+    color:white;
+    padding-right: 90px;
+}
